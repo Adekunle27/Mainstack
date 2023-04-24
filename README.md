@@ -1,7 +1,5 @@
 # Mainstack
 
-[![MainStack Status](https://api.netlify.com/api/v1/badges/e67722d2-62cd-44d0-91ae-5e633b68ea37/deploy-status)](https://app.netlify.com/sites/mainstack-core/deploys)
-
 - Demo Live at : https://mainstack-nine.vercel.app
 
 ### Technologies & Tools used.
